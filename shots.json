@@ -1,0 +1,5 @@
+[
+  { "name": "1-coral-cove-three-found.jpg", "query": "?shot=play&scene=1&seed=6&found=0,2,3&time=64&score=1480&hints=2&now=10&best=0" },
+  { "name": "2-sunny-meadow-three-found.jpg", "query": "?shot=play&scene=0&seed=5&found=0,1,4&time=58&score=1260&hints=2&now=10&best=0" },
+  { "name": "3-rocket-ridge-clock-running-out.jpg", "query": "?shot=play&scene=2&seed=11&found=0,2,4,5&time=14&score=2140&hints=1&now=10&best=0" }
+]
